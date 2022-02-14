@@ -144,7 +144,7 @@ function App() {
       <h1 className="text-center mt-5 mb-4">Aplikasi Penilaian Mahasiswa</h1>
 
       <div className="mt-5">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Aspek Penilaian :</label>
           </div>
@@ -164,7 +164,7 @@ function App() {
       </div>
       {/* Mahasiwa 1 */}
       <div className="mt-5">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 1</label>
           </div>
@@ -200,7 +200,7 @@ function App() {
       </div>
       {/* Mahasiwa 2 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 2</label>
           </div>
@@ -236,7 +236,7 @@ function App() {
       </div>
       {/* Mahasiwa 3 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 3</label>
           </div>
@@ -272,7 +272,7 @@ function App() {
       </div>
       {/* Mahasiwa 4 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 4</label>
           </div>
@@ -308,7 +308,7 @@ function App() {
       </div>
       {/* Mahasiwa 5 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 5</label>
           </div>
@@ -344,7 +344,7 @@ function App() {
       </div>
       {/* Mahasiwa 6 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 6</label>
           </div>
@@ -380,7 +380,7 @@ function App() {
       </div>
       {/* Mahasiwa 7 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 7</label>
           </div>
@@ -416,7 +416,7 @@ function App() {
       </div>
       {/* Mahasiwa 8 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 8</label>
           </div>
@@ -452,7 +452,7 @@ function App() {
       </div>
       {/* Mahasiwa 9 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 9</label>
           </div>
@@ -488,7 +488,7 @@ function App() {
       </div>
       {/* Mahasiswa 10 */}
       <div className="mt-3">
-        <form className="d-flex flex-row justify-content-between">
+        <form className="d-flex flex-row justify-content-between flex-wrap">
           <div className="form-group">
             <label>Mahasiswa 10</label>
           </div>
